@@ -1,0 +1,46 @@
+body{
+	background-image: url("bck.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family: sans-serif;
+}
+h1 {
+	text-align: center
+}
+a:link{
+	color: red;
+}
+a:visited{
+	color:red
+}
+img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	height: 300px;
+	width: 300px;
+	
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+  color: orange;
+}
+tr:nth-child(odd) {
+  background-color: black;
+  color: yellow;
+}
+span.GeorgiaState{
+	color: red;
+}
+span.ComputerScience{
+	color: red;
+	
+}
+span.Justin{
+	color: red;
+}
+span.Session{
+	color: red;
+}
+
